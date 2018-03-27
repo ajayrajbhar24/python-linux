@@ -1,2 +1,2 @@
 # python-linux
-python script to fetch data in linux 
+My Python - Linux Example  
