@@ -1,6 +1,6 @@
 # Script Name		: write_in_files.py
-# Author		    : Ajay Rajbhar
-# Created		    : 27th March 2018
+# Author		   : Ajay Rajbhar
+# Created		   : 27th March 2018
 # Last Modified	: 
 # Version		    : 1.0
 
